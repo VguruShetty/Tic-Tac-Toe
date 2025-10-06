@@ -37,10 +37,15 @@ JavaScript (ES6) – game logic and interactivity
 
 Tic-Tac-Toe/
 │
+
 ├── index.html      # Main HTML file
+
 ├── style.css       # Styling for layout and design
+
 ├── app.js          # Game logic
+
 ├── README.md       # Project documentation
+
 └── output/         # Folder containing output screenshots
 
 ⚙️ How to Run the Project
