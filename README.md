@@ -75,7 +75,6 @@ If all 9 squares are filled and no one wins → it’s a draw.
 
 🖼️ Screenshots
 
-(Optional — add screenshots once you have them)
 Example:
 
 ![Tic Tac Toe Screenshot](output/Screenshot 1.png)
