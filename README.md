@@ -9,7 +9,7 @@ Play as Player X or Player O and see who wins — or if it ends in a draw!
 
 👉 Play the Game Here
 
-(Add your GitHub Pages or Netlify link once you deploy it)
+(https://vgurushetty.github.io/Tic-Tac-Toe/)
 
 🧩 Features
 
@@ -34,13 +34,14 @@ CSS3 – styling
 JavaScript (ES6) – game logic and interactivity
 
 📂 Project Structure
+
 Tic-Tac-Toe/
 │
 ├── index.html      # Main HTML file
 ├── style.css       # Styling for layout and design
 ├── app.js          # Game logic
 ├── README.md       # Project documentation
-└── output          # output screenshot
+└── output/         # Folder containing output screenshots
 
 ⚙️ How to Run the Project
 
